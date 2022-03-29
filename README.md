@@ -18,4 +18,4 @@ I'm a 19 year old man from Brazil, São Paulo.
 
 ### Wanna Colab on something? Send me a message!
 
--__Find me at ![](kisspng-discord-computer-icons-logo-computer-software-5af6ee334eb7b1.8850681915261322753224 (1).png) Fuscão_Preto#0187
+-__Find me at ![Discord](FuscaoPrteo/kisspng-discord-computer-icons-logo-computer-software-5af6ee334eb7b1.8850681915261322753224 (1).png) Fuscão_Preto#0187
