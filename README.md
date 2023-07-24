@@ -12,7 +12,7 @@ I'm a 20 year old man from Brazil, São Paulo.
 
 -__Coding languages i know the basics of : c++__
 
--__Coding languages i am somewhat familiar with : c++
+-__Coding languages i am somewhat familiar with : c++__
 
 -__Coding languages i am very competent at : c__
 ## What are you working on?
