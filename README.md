@@ -1,28 +1,5 @@
-# Welcome
+![FuscaoPreto's Stats](https://github-readme-stats.vercel.app/api?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&count_private=false)
 
-## Name's **Otavio**
+![FuscaoPreto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuscaoPreto&theme=omni&hide_border=true)
 
-I'm a 21 year old man from Brazil, São Paulo. 
-
-## Quick facts about me:
-
--__Certified FCE B2 in English__
-
--__Currently going to 🎓 at Universidade São Francisco__
-
--__Coding languages i know the basics of : c++, python, java__
-
--__Coding languages i am somewhat familiar with : c++, java__
-
--__Coding languages i am very competent at : c__
-## What are you working on?
-
-Looking for an Intership.
-
-## Wanna Colab on something? Send me a message!
-
-```diff
-@@  Discord fuscao_preto_oficial @@
-
-+ E-mail: otavio.pc@proton.me
-```
+![FuscaoPreto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&layout=compact)
