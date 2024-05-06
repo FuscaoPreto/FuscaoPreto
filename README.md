@@ -23,7 +23,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em programação e dese
 
 ## Contato
 
-Você pode entrar em contato comigo através do meu e-mail: [seu-email@example.com](mailto:seu-email@example.com)
+Você pode entrar em contato comigo através do meu e-mail: [Protonmail](mailto:otavio.pc@proton.me)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou apenas para bater um papo sobre programação!
 
