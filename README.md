@@ -1,6 +1,6 @@
 # Otávio Pereira Cardoso
 
-Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em C++, Unreal Blueprints, HTML/CSS e muito mais!
+Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em C++,PHP , HTML/CSS e muito mais!
 
 
 ![FuscaoPreto's Stats](https://github-readme-stats.vercel.app/api?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&count_private=false)
