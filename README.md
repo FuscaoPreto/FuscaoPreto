@@ -7,7 +7,9 @@ Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em C++, PHP, 
 
 ## Sobre mim
 
-Sou um entusiasta da programação com experiência em desenvolvimento de jogos utilizando C++ e Unreal Engine. Também tenho habilidades em desenvolvimento web, utilizando HTML, CSS e outras tecnologias back-end.
+Tenho habilidades em desenvolvimento web, utilizando HTML, CSS e outras tecnologias front-end.
+
+Já no Backend, programo em PHP, Python ou JS.
 
 Atualmente, estou focado em aprimorar minhas habilidades em programação e desenvolvimento de software, buscando sempre aprender coisas novas e enfrentar desafios interessantes.
 
@@ -17,6 +19,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em programação e dese
 - PHP
 - HTML/CSS
 - PHP
+- Python
 
 
 ![FuscaoPreto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&layout=compact)
