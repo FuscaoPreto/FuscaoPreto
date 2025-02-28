@@ -12,11 +12,11 @@ Atualmente, estou focado em aprimorar minhas habilidades em programação e dese
 
 ## Tecnologias que eu trabalho
 
--Java
+- Java
 
--Spring
+- Spring
 
--Python
+- Python
 
 ## Contato
 
