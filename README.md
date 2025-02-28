@@ -1,28 +1,22 @@
 # Otávio Pereira Cardoso
 
-Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em C++, PHP, HTML/CSS e muito mais!
-
-
-![FuscaoPreto's Stats](https://github-readme-stats.vercel.app/api?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&count_private=false)
+Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em Java e Spring Boot.
 
 ## Sobre mim
 
-Tenho habilidades em desenvolvimento web, utilizando HTML, CSS e outras tecnologias front-end.
+Tenho habilidades em desenvolvimento web,utilizando Spring Boot e Java.
 
-Já no Backend, programo em PHP, Python ou JS.
+Além disso, adorao mecânica e eletrônica de uma amenira geral.
 
 Atualmente, estou focado em aprimorar minhas habilidades em programação e desenvolvimento de software, buscando sempre aprender coisas novas e enfrentar desafios interessantes.
 
 ## Tecnologias que eu trabalho
 
-- C++
-- PHP
-- HTML/CSS
-- PHP
-- Python
+-Java
 
+-Spring
 
-![FuscaoPreto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuscaoPreto&theme=omni&show_icons=true&hide_border=true&layout=compact)
+-Python
 
 ## Contato
 
