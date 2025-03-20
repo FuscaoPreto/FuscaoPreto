@@ -6,7 +6,7 @@ Olá! Eu sou Otávio Pereira Cardoso, um desenvolvedor interessado em Java e Spr
 
 Tenho habilidades em desenvolvimento web,utilizando Spring Boot e Java.
 
-Além disso, adorao mecânica e eletrônica de uma amenira geral.
+Além disso, adorao mecânica e eletrônica de uma maneira geral.
 
 Atualmente, estou focado em aprimorar minhas habilidades em programação e desenvolvimento de software, buscando sempre aprender coisas novas e enfrentar desafios interessantes.
 
